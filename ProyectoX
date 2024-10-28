@@ -1,0 +1,1 @@
+print(f"Despues de 6 meses la ganancia total del local es de: {ganancia_total:.2f} pesos.")
